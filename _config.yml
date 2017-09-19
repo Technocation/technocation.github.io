@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+title:            Technocation
+description:      A non-profit supporting education for IT professonals
+show_downloads:   false
+google_analytics:
+theme:            jekyll-theme-minimal
