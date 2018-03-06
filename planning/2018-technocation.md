@@ -74,12 +74,13 @@ OSGeo.US will be a national chapter of the OSGeo community. Technocation will ac
 
 -   Build an email list of people across the United States who would be interested in participating and/or organizing local chapters in the United States
 
-- Build a job board for people looking for jobs which require OSGeo application skills
+-   Build a job board for people looking for jobs which require OSGeo application skills
+
+-   Build new website and promotional materials to support OSGeo.US activities.
 
 ## AvidGeo Meetup Group
 
 The AvidGeo Meetup group is a ongoing meetup in Boston that supports local gatherings around spatial technology community. Technocation will support this program directly and as the OSGeo.US chapter where possible. AvidGeo is technology agnostic, but will support and champion Open Source programming when possible.
-
 
 **spring**
 
@@ -95,11 +96,11 @@ The AvidGeo Meetup group is a ongoing meetup in Boston that supports local gathe
 -   Social event
 
 ## Other potential program
+
 **Taste Of Open Source**
 
 Taste Of Open Source is a social event with lightening talks related to open source projects and community. This event will support open source community broadly giving a chance for project contributors and users to gather and celebrate the amazing amounts of volunteer effort that go into the process. Think of it as a show and tell where people understand your excitement about your project, not just from within your tech silo.
 
 **Contrinbutor Country Campaign**
-
 
 Contributor country should be a website that allows people to share their accomplishments with the community. It will also allow the community to share the many types of people who partake within these projects.
