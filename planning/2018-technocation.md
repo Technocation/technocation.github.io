@@ -10,9 +10,12 @@ To cultivate and support tech organizations, organizers, activities, and events 
 
 ## executive board
 
-**President** Guido stein  
-**Treasurer** Laura Doty  
-**Clerk** Josh Rosenthal
+**President**  
+Guido stein  
+**Treasurer**  
+Laura Doty  
+**Clerk**  
+Josh Rosenthal
 
 ## directors
 
@@ -29,7 +32,6 @@ OSGeo.US will be a national chapter of the OSGeo community. Technocation will ac
 
 -   [Form official OSGEO national chapter](https://wiki.osgeo.org/wiki/Local_Chapter_Guidelines)
 
-
     -   "OSGeo Chapter" should self-organize  
 
         Based on informal discussions with OSGeo members online and at the FOSS$G conference there is a major interest in how to support and build community across the nation. Technocation is a non-profit that can act as a formal home for the OSGeo.US chapter.  
@@ -44,23 +46,23 @@ OSGeo.US will be a national chapter of the OSGeo community. Technocation will ac
 
     -   “OSGeo Chapter” should submit an official expression of interest to form a chapter to the OSGeo board, listing initial members, mission, representative and other supporting information.
 
-         Randy Hale will submit an official expression of interest to the OSGeo discussion list.
+        Randy Hale will submit an official expression of interest to the OSGeo discussion list.
 
     -   The OSGeo board shall then consider passing a motion forming the chapter, and designating the liason officer.
 
--   In considering the formation of new OSGeo chapters, the board will consider issues including:
+    -   In considering the formation of new OSGeo chapters, the board will consider issues including:
 
-    -   Does the mandate (geographically or linguistically) conflict with other existing chapters or chapters-in-formation?  
+        -   Does the mandate (geographically or linguistically) conflict with other existing chapters or chapters-in-formation?  
 
-        The OSGeo.US board does feels that a national organization in the United states does not conflict with any other group. Our role will be to support chapters, projects, activities, and events that we are able to. We do not plan on running these chapters, projects, activities, and events ourselves with the exception of events done local to the Boston area by the AvidGeo Meetup Group, form which many of the initial OSGeo.US board members are a part of.
+            The OSGeo.US board does feels that a national organization in the United states does not conflict with any other group. Our role will be to support chapters, projects, activities, and events that we are able to. We do not plan on running these chapters, projects, activities, and events ourselves with the exception of events done local to the Boston area by the AvidGeo Meetup Group, form which many of the initial OSGeo.US board members are a part of.
 
-    -   Does the chapter appear to have sufficient interest to justify official formation?
+        -   Does the chapter appear to have sufficient interest to justify official formation?
 
-        OSGeo.US has a non-profit organization, Technocation, that is willing to support the program OSGeo.US works on. Since the chapter is not an official entity Technocation will help support financial matters. Technocation has funding created by the FOSS4G 2017 Boston to build OSGeo community.
+            OSGeo.US has a non-profit organization, Technocation, that is willing to support the program OSGeo.US works on. Since the chapter is not an official entity Technocation will help support financial matters. Technocation has funding created by the FOSS4G 2017 Boston to build OSGeo community.
 
-    -   Does the chapter appear to be open to broad membership, and representative of the target geographic or linguistic community?
+        -   Does the chapter appear to be open to broad membership, and representative of the target geographic or linguistic community?
 
-        OSGeo.US is being founded from the community that worked on the FOSS4G 2017 Boston event, but over time plans to have representation from other communities within the United States. Part of the goals for 2018 are to build a network of people who would be interested in continuing the national chapter work.
+            OSGeo.US is being founded from the community that worked on the FOSS4G 2017 Boston event, but over time plans to have representation from other communities within the United States. Part of the goals for 2018 are to build a network of people who would be interested in continuing the national chapter work.
 
 
 -   Support **FOSS4G NA 2018 Community Day**
