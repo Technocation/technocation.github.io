@@ -4,7 +4,7 @@ One day the technology workforce will have a place to turn to for educational an
 
 # Missions Statement
 
-To cultivate and support tech organizations and organizers to develop community.
+To cultivate and support tech organizations, organizers, activities, and events to develop a supportive tech community.
 
 # board
 
