@@ -35,7 +35,7 @@ OSGeo.US will be a national chapter of the OSGeo community. Technocation will ac
 
     -   "OSGeo Chapter" should self-organize  
 
-        Based on informal discussions with OSGeo members online and at the FOSS$G conference there is a major interest in how to support and build community across the nation. Technocation is a non-profit that can act as a formal home for the OSGeo.US chapter.  
+        Based on informal discussions with OSGeo members online and at the FOSS4G conference there is a major interest in how to support and build community across the nation. Technocation is a non-profit that can act as a formal home for the OSGeo.US chapter.  
 
     -   "OSGeo Chapter" should prepare a mission and objective statement  
 
