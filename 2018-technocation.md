@@ -22,7 +22,7 @@ Josh Rosenthal
 Sheeri Cabral  
 Mike Foster  
 Randy Hale  
-Kurt Menke
+Kurt Menke  
 Kayla Patel  
 
 # Programs for 2018
